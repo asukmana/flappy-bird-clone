@@ -6,10 +6,13 @@
   "name":"ob_rock_bottom",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"rocks",
+    "path":"folders/Objects/rocks.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"ob_rock_parent",
+    "path":"objects/ob_rock_parent/ob_rock_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
