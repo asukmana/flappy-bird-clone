@@ -37,13 +37,17 @@
   "resources":[
     {"id":{"name":"fn_game","path":"fonts/fn_game/fn_game.yy",},},
     {"id":{"name":"ob_plane","path":"objects/ob_plane/ob_plane.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ob_rock_bottom","path":"objects/ob_rock_bottom/ob_rock_bottom.yy",},},
+    {"id":{"name":"ob_rock_top","path":"objects/ob_rock_top/ob_rock_top.yy",},},
+    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"sp_plane","path":"sprites/sp_plane/sp_plane.yy",},},
+    {"id":{"name":"sp_rock_bottom","path":"sprites/sp_rock_bottom/sp_rock_bottom.yy",},},
+    {"id":{"name":"sp_rock_top","path":"sprites/sp_rock_top/sp_rock_top.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

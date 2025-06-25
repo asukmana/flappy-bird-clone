@@ -110,7 +110,7 @@
     "9647":{"character":9647,"h":51,"offset":7,"shift":25,"w":11,"x":373,"y":214,},
   },
   "hinting":0,
-  "includeTTF":false,
+  "includeTTF":true,
   "interpreter":0,
   "italic":false,
   "kerningPairs":[
@@ -2938,6 +2938,6 @@
     "name":"Default",
     "path":"texturegroups/Default",
   },
-  "TTFName":"",
+  "TTFName":"E:\\Users\\Arief\\Coding\\GameMaker\\Flappy Bird Clone\\fonts\\fn_game\\Xolonium-Regular.ttf",
   "usesSDF":false,
 }
