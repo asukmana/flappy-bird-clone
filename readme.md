@@ -1,4 +1,4 @@
-# Pong clone
+# Flappy Bird clone
 
 This is a clone of Flappy Bird for Gamemaker. 
 It's a game where the player controls a bird, attempting to fly between columns of green pipes without hitting them. 
